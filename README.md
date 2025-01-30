@@ -19,7 +19,7 @@ Smart Stock Analyzer is a Python-based stock analysis tool that fetches real-tim
 ## 📥 Installation
 ### 1️⃣ Clone the Repository
 ```bash
- git clone https://github.com/Saba_Snd/Stock-Analyzer.git
+ git clone https://github.com/SabaSnd/Stock-Analyzer.git
  cd Stock-Analyzer
 ```
 ### 2️⃣ Create a Virtual Environment (Optional but Recommended)
